@@ -1,0 +1,1 @@
+This repository entails projects that were developed in the context of The Odin Project.
